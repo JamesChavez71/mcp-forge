@@ -37,3 +37,4 @@ Notes and usage details for mcp-forge.
 - fix a small wording issue
 - link the usage section
 - link the usage section
+- link the usage section
