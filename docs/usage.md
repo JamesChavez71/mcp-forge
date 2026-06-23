@@ -38,3 +38,4 @@ Notes and usage details for mcp-forge.
 - link the usage section
 - link the usage section
 - link the usage section
+- fix a small wording issue
